@@ -1,0 +1,48 @@
+
+<html>
+
+</head>
+	<title>::: Kwangya university :::</title>
+	</head>
+	<body bgcolor=ccfff#>
+		
+		<h1><center>Learn to The Next Level!!</h1>
+		<hr size=5 align=center noshade>
+</head>
+<body>
+<MARQUEE WIDTH="100%" bg color=blue>SILAHKAN BERIKAN SARAN ANDA UNTUK KWANGYA UNIVERSITY!</MARQUEE>
+<b><font size=2 Face=tahoma color=black>
+
+<hr><p><b><font face=rocwell size=4 color=blue>
+<hr>
+| <a href=index.html>HOME</a> 
+| <a href=fakultas.html>FAKULTAS</a>
+| <a href=prodi.html>PRODI</a> |
+| <a href=visimisi.html>VISI MISI</a> |
+| <a href=ukm.html>UKM</a> |
+| <a href=saran.html>SARAN</a> |
+
+    <script>
+        function submitSaran() {
+            // Mendapatkan nilai dari input
+            var saran = document.getElementById("saran").value;
+            
+            // Menampilkan pesan konfirmasi
+            alert("Terima kasih atas saran Anda: " + saran);
+            
+            // Mengosongkan input setelah pengiriman
+            document.getElementById("saran").value = "";
+        }
+    </script>
+</head>
+<body>
+
+    <h2>Formulir Masukan Saran</h2>
+    
+    <label for="saran">Masukkan saran Anda:</label><br>
+    <textarea id="saran" name="saran" rows="4" cols="50"></textarea><br><br>
+    
+    <button onclick="submitSaran()">Kirim</button>
+
+</body>
+</html>

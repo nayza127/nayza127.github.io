@@ -1,0 +1,26 @@
+<html>
+	
+	</head>
+	<title>::: Kwangya university :::</title>
+	</head>
+	<body bgcolor=ccfff#>
+		<font size=5 Face=rocwell color=black>WELCOME TO KWANGYA UNIVERSITY</font>
+		<hr size=3 width=430 align=left>
+		<h1><center>Learn to The Next Level!!</h1>
+		<hr size=5 align=center noshade>
+<title>::: Documents :::</title>
+</head>
+<body>
+<MARQUEE WIDTH="100%" bg color=blue>WELCOME TO KWANGYA HIGHSCHOOL</MARQUEE>
+<b><font size=2 Face=tahoma color=black>
+<img src="gedung.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<hr><p><b><font face=rocwell size=4 color=blue>
+<hr>
+| <a href=Home.html>HOME</a> 
+| <a href=prodi.html>Program Study</a>
+| <a href=UKM2.html>UKM</a> |
+<hr><p><font face=rocwell size=4 color=black>
+<font face=verdana size=4 color=blue>
+<hr><p><font face=rocwell size=4 color=black>

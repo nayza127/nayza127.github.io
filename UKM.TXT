@@ -1,0 +1,43 @@
+<html>
+	
+	</head>
+	<title>::: Kwangya university :::</title>
+	</head>
+	<body bgcolor=ccfff#>
+		<font size=5 Face=News701 BT color=black>UNIT KEGIATAN MAHASISWA KWANGYA</font>
+		<hr size=3 width=430 align=left>
+		<h1><center>Learn to The Next Level!!</h1>
+		<hr size=5 align=center noshade>
+
+</head>
+<body>
+<MARQUEE WIDTH="100%" bg color=blue>UNIT KEGIATAN MAHASISWA KWANGYA UNIVERSITY</MARQUEE>
+<b><font size=4 Face=News701 BT color=black>
+
+<hr><p><b><font face=rocwell size=4 color=blue>
+<hr>
+| <a href=HOME.html>HOME</a> 
+| <a href=FAKULTAS.html>FAKULTAS</a>
+| <a href=PRODI.html>PRODI</a> |
+| <a href=VISI MISI.html>VISI MISI</a> |
+| <a href=UKM.html>UKM</a> |
+
+<img src="f1.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="f2.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="f3.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="f4.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="f5.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>	
+
+<hr><p><font face=rocwell size=4 color=black>
+<font face=verdana size=4 color=blue>
+<hr><p><font face=rocwell size=4 color=black>

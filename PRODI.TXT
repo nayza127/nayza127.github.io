@@ -1,0 +1,39 @@
+<html><title>::: Kwangya university :::</title>
+</head>
+	<body bgcolor=#ccfff>
+		<font size=5 Face=rocwell color=black>WELCOME TO KWANGYA UNIVERSITY</font>
+		
+		<h1><center>learn to the Next Level!!</h1>
+		<hr size=5 align=center noshade>
+</head>
+<body>
+<MARQUEE WIDTH="100%" bg color=blue>WELCOME TO KWANGYA UNIVERSITY</MARQUEE>
+<b><font size=2 Face=tahoma color=black>
+
+
+<hr>
+| <a href=HOME.html>H o m e</a> 
+| <a href=FAKULTAS.html>FAKULTAS</a>
+| <a href=PRODI.html>PRODI</a> |
+<hr><p><font face=rocwell size=4 color=black>
+<font face=verdana size=4 color=blue>
+<hr><p><font face=verdana size=4 color=blue>
+Program Study :<br>
+<font size=5>
+<img src="prodi1.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="prodi2.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="prodi3.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="prodi4.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>
+<img src="prodi5.jpg" alt="KWANGYA">
+<hspace=20 vspace=10 width=200 height =254 
+			align="center" border=2>	
+			</body>
+</html>
